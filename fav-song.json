@@ -7,7 +7,8 @@
         "views": "25 M",
         "img": "https://i.ytimg.com/vi/s5abpwVuhzM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC6eIYTKRGIng9cS8G6VmJeoZ8Fsg",
         "link": "https://www.youtube.com/watch?v=s5abpwVuhzM",
-        "time": 3.16
+        "time": 3.16,
+        "rating": 4.5
     },
     {
         "key": "002",
@@ -17,7 +18,8 @@
         "views": "207 M",
         "img": "https://i.ytimg.com/vi/kTJczUoc26U/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAX47hOn-1i-IVwpqYAn7b9pfREKg",
         "link": "https://www.youtube.com/watch?v=kTJczUoc26U",
-        "time": 2.38
+        "time": 2.38,
+        "rating": 4
     },
     {
         "key": "003",
@@ -27,7 +29,8 @@
         "views": "242 M",
         "img": "https://i.ytimg.com/vi/L7mfjvdnPno/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBMEE6t_RacKbUzzzL00k2dA8n6kQ",
         "link": "https://www.youtube.com/watch?v=L7mfjvdnPno",
-        "time": 2.39
+        "time": 2.39,
+        "rating": 5
     },
     {
         "key": "004",
@@ -37,7 +40,8 @@
         "views": "897 M",
         "img": "https://i.ytimg.com/vi/jzD_yyEcp0M/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLARVwMZv1KSTDKTW8SVeN4OsPlAaA",
         "link": "https://www.youtube.com/watch?v=jzD_yyEcp0M",
-        "time": 3.52
+        "time": 3.52,
+        "rating": 4.5
     },
     {
         "key": "005",
@@ -47,7 +51,8 @@
         "views": "9.8 M",
         "img": "https://i.ytimg.com/vi/IXvjOjVZjTM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCknZtOyvlUIr-a3nSA-1XHJszd0Q",
         "link": "https://www.youtube.com/watch?v=IXvjOjVZjTM",
-        "time": 3.9
+        "time": 3.9,
+        "rating": 5
     },
     {
         "key": "006",
@@ -57,7 +62,8 @@
         "views": "3.1 B ",
         "img": "https://i.ytimg.com/vi/60ItHLz5WEA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDkccnygK86gFDqVaK7ilG1E8Wehw",
         "link": "https://www.youtube.com/watch?v=60ItHLz5WEA",
-        "time": 3.33
+        "time": 3.33,
+        "rating": 5
     },
     {
         "key": "007",
@@ -67,7 +73,8 @@
         "views": "291 M",
         "img": "https://i.ytimg.com/vi/op4B9sNGi0k/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAj_4cRdIBd9JzukpjY0rESHx8Anw",
         "link": "https://www.youtube.com/watch?v=op4B9sNGi0k",
-        "time": 3.59
+        "time": 3.59,
+        "rating": 4
     },
     {
         "key": "008",
@@ -77,7 +84,8 @@
         "views": "2.1 b",
         "img": "https://i.ytimg.com/vi/ALZHF5UqnU4/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCM_NTYBhdQPPRNX4cZaLFysZLrew",
         "link": "https://www.youtube.com/watch?v=ALZHF5UqnU4",
-        "time": 3.2
+        "time": 3.2,
+        "rating": 4.3
     },
     {
         "key": "009",
@@ -87,7 +95,8 @@
         "views": "2.9 b",
         "img": "https://i.ytimg.com/vi/wnJ6LuUFpMo/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBAdsQBSqW6tMld-VwsNDRwOSiqNw",
         "link": "https://www.youtube.com/watch?v=wnJ6LuUFpMo",
-        "time": 3.06
+        "time": 3.06,
+        "rating": 4.5
     },
     {
         "key": "0010",
@@ -97,6 +106,7 @@
         "views": "9 .6 M",
         "img": "https://i.ytimg.com/vi/ptKvLH0GtOk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBPUUbUjv-AOSLOAOEL-n4poYwKcQ",
         "link": "https://www.youtube.com/watch?v=ptKvLH0GtOk",
-        "time": 2.51
+        "time": 2.51,
+        "rating": 4
     }
 ]
